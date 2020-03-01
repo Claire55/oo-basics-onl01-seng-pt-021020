@@ -9,6 +9,8 @@ class Shoe
     @brand
   end
   
-  def cobble
+  def cobble("The shoe has been repaired")
+    puts 
+    
 end  
   
