@@ -9,5 +9,5 @@ class Shoe
     @brand
   end
   
-  
+end  
   
