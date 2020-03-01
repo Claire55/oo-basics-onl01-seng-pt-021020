@@ -9,8 +9,8 @@ class Shoe
     @brand
   end
   
-  def cobble("The shoe has been repaired")
-    puts 
+  def cobble
+    self.condition = new
     
 end  
   
